@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Berk 👋
 
-<!--
-**berkantepli/berkantepli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineer | Software Test Engineer | QA Engineer
 
-Here are some ideas to get you started:
+Software Test Engineer with 5+ years of experience in software quality assurance across telecommunications, insurance, and low-code platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ISTQB® Certified Tester – Foundation Level (CTFL)
+
+---
+
+### 🧪 QA & Testing
+
+- Manual & Functional Testing
+- Regression & Exploratory Testing
+- API Testing
+- Mobile & Web Testing
+- Performance Testing
+- Test Case Design
+- Defect Lifecycle Management
+- SQL-based Data Validation
+- Python for QA
+- AI-assisted Software Testing
+
+### 🛠️ Tools & Technologies
+
+- Jira / Xray / Kualitee
+- Postman / Swagger
+- JMeter
+- SQL
+- Git / GitHub
+- Python
+- Java
+- React Native
+
+### 📚 Currently Learning
+
+- Mobile Test Automation with Appium
+- Advanced Test Automation
+
+---
+
+### 🔗 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/berkantepli)

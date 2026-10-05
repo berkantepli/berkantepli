@@ -1,5 +1,7 @@
 # Hi, I'm Berk 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=berkantepli&label=Profile%20views&color=0e75b6&style=flat)
+
 ### Computer Engineer | Software Test Engineer | QA Engineer
 
 Software Test Engineer with 5+ years of experience in software quality assurance across telecommunications, insurance, and low-code platforms.

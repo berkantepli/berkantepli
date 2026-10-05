@@ -42,3 +42,18 @@ ISTQB® Certified Tester – Foundation Level (CTFL)
 ### 🔗 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/berkantepli)
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=berkantepli&show_icons=true&theme=transparent&hide_border=true" alt="Berk's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantepli&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=berkantepli&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</p>

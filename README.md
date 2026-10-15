@@ -4,21 +4,23 @@
 
 ### Computer Engineer | Software Test Engineer | QA Engineer
 
-Software Test Engineer with **5+ years of experience** in software quality assurance across telecommunications, insurance, healthcare, and low-code platforms.
+Software Test Engineer with **5+ years of experience** in end-to-end quality assurance across telecommunications, insurance, healthcare, and AI-powered low-code platforms.
 
-My background combines software testing and mobile application development, helping me approach quality from both development and testing perspectives. I'm particularly interested in **test automation, API quality, and AI-assisted software testing**.
+With a background in React Native development, I combine technical problem-solving with a quality-focused mindset. My interests include **test automation, API quality engineering, and AI-assisted software testing**.
 
-**ISTQB® Certified Tester – Foundation Level (CTFL)**
+- 🧪 Experienced in web, mobile, API, and performance testing
+- 🤖 Building AI-assisted QA tools with Python
+- ⚙️ Exploring test automation and CI/CD workflows
+- 🎓 ISTQB® Certified Tester – Foundation Level (CTFL)
 
 ---
 
 ## 🧪 QA & Testing
 
-- Manual & Functional Testing
-- Regression & Exploratory Testing
-- API Testing
-- Mobile & Web Testing
-- Performance Testing
+- Functional, Regression & UAT Testing
+- API Testing & OpenAPI Contract Validation
+- Mobile, Web & Cross-browser Testing
+- Performance & Load Testing
 - Test Case Design & Test Planning
 - Defect Lifecycle Management
 - SQL-based Data Validation
@@ -27,45 +29,82 @@ My background combines software testing and mobile application development, help
 
 ## 🛠️ Tools & Technologies
 
-| Category | Technologies |
-|---|---|
-| Test Management | Jira, Xray, Kualitee |
-| API Testing | Postman, Swagger |
-| Performance Testing | JMeter |
-| Mobile Testing | Xcode, Android Studio, Appium |
-| Automation | Python, Java, Selenium, TestNG |
-| Database | SQL |
-| Development & Version Control | Git, GitHub, React Native |
+**Test Management**
+- Jira, Xray, HP ALM, Kualitee, Asana
+
+**API & Performance Testing**
+- Postman, Swagger/OpenAPI, REST API, JMeter
+
+**Programming & Automation**
+- Python, React Native, Appium
+
+**Databases**
+- SQL, Microsoft SQL Server (MSSQL), PostgreSQL
+
+**DevOps & Development**
+- Git, GitHub Actions, Jenkins, Docker
+
+**AI-assisted Testing**
+- Claude, Ollama
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Bug Analyzer
-An AI-assisted QA project focused on analyzing bug reports and supporting test analysis.
 
-**Focus areas:** Bug analysis, QA workflows, AI-assisted testing.
+An AI-powered QA tool for analyzing bug reports and supporting test analysis.
+
+- Analyzes individual bug reports with screenshots and batch reports from Excel/CSV files
+- Evaluates severity and priority
+- Identifies potential root causes and missing information
+- Generates structured test scenarios
+- Runs locally using Ollama to keep bug data on the machine
+
+**Tech Stack:** Python, FastAPI, Pydantic, Ollama, Qwen3-VL, Pytest
 
 [View Repository](https://github.com/berkantepli/ai-bug-analyzer)
 
-### 📱 Appium Framework with Java
-A mobile test automation framework built with Java and Appium, demonstrating automated testing concepts and framework development.
+### 🔌 API QA Intelligence
 
-**Technologies:** Java, Appium, Selenium, TestNG, Maven.
+An open-source API testing tool that uses OpenAPI/Swagger contracts to automate API quality checks.
+
+- Generates rule-based test checks from API contracts
+- Executes tests and reports endpoint coverage and risk
+- Includes create-to-delete workflow tests
+- Supports access-control checks using a second user
+- Detects contract changes and supports CLI-based CI pipelines
+- Offers optional AI suggestions through a local Ollama model
+
+**Tech Stack:** Python, FastAPI, HTTPX, React, SQLite, Docker, Pytest, Playwright, GitHub Actions
+
+[View Repository](https://github.com/berkantepli/api-qa-intelligence)
+
+### 📱 Appium Framework with Java
+
+A mobile test automation project focused on learning and implementing automated testing concepts for mobile applications.
+
+**Focus:** Mobile test automation and framework development.
 
 [View Repository](https://github.com/berkantepli/appium-framework-with-java)
 
-### 🔌 API QA Intelligence
-An AI-assisted QA project focused on API quality analysis and improving test design.
+---
 
-**Focus areas:** API testing, test coverage analysis, AI-assisted QA.
+## ⚙️ QA Automation & Process Improvement
 
-[View Repository](https://github.com/berkantepli/api-qa-intelligence)
+### Python-based Jira QA Reporting Automation
+
+Built a Python automation that retrieves defect and test execution metrics from Jira and generates Excel reports for QA leadership.
+
+- Tracks open and resolved defects, priorities, and resolution times
+- Automates recurring QA reporting
+- Reduced weekly reporting time from **15–20 minutes to under 1 minute**
 
 ---
 
 ## 📚 Currently Learning
 
 - Mobile Test Automation with Appium
-- Python-based Test Automation
 - Advanced Test Automation Practices
 - AI-assisted Quality Engineering
 
